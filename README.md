@@ -1,2 +1,1 @@
-Everything I have collected over the last couple years messing around. Hope it serves you as well as it did for me. enjoy guys and gals!
-No client No Mpq's just tools Bring Your Own Files to Edit I do not supply them.
+Quick update: I made a mistake with my script when I created that repo. I’ll be uploading each tool individually so it’s easier to browse, probably over the weekend when I have more time. Sorry if anyone downloaded an empty folder in the meantime.
